@@ -23,14 +23,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Essa é uma estrutura inicial para qualquer projeto utilizando ReactJS + NextJS.
+Essa é uma estrutura inicial para qualquer projeto utilizando ReactJS + NextJS. <br>
 Um bom atalho para não precisar configurar todos os projetos do zero.
 
-Ja esta configurado:
-    NextJS + TypeScript
-    NextJS + StyledComponent
-    ESLint VSCode
-    Prettier VSCode
+Ja esta configurado: <br>
+    NextJS + TypeScript <br>
+    NextJS + StyledComponent <br>
+    ESLint VSCode <br>
+    Prettier VSCode <br>
 
 Esta configurado tambem o arquivo _documento do NextJS
 
